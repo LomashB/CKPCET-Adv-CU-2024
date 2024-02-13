@@ -1,0 +1,13 @@
+1. Initialize git: git init
+2. Check for new changes: git status
+3. add file for git tracking: git add 
+4. Saving changes in git: git commit
+5. shifts from one branche to the other: git checkout
+git checkout -b test
+6. Checking branches: git branch
+7. View all commits: git log
+8. merging commits: git merge
+9. Adding remote: git remote add origin https://github.com/mainakDev/CKPCET-Adv-CU-2024.git
+10. set upstream: git push -u origin master
+git config --global user
+11. Copying remote repo: git clone
